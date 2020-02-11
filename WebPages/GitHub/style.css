@@ -1,0 +1,190 @@
+body{
+    background-color: rgb(43,49,55);
+}
+
+header{
+    position:absolute;
+    top:0;
+    left:0;
+    right: 0;
+    bottom: 630px;
+    color:white;
+    background-color: rgb(36,41,46);
+    
+}
+
+.dropbtn {
+    background-color: rgb(36, 41, 45);
+    color: white;
+    font-size: 16px;
+    border: none;
+    width: 100%;
+    overflow: auto;
+    height: 40px;
+}
+
+.why {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+#logo{
+    width: 33px;
+    margin-left: 70px;
+    margin-top: 18px;
+}
+
+ul{
+    position: absolute;
+    left: 90px;
+    top: 0px;
+}
+
+li{
+    display: inline;
+    list-style: none;
+    font-size: 1.1em;
+    margin-left: 10px;
+}
+
+.rhead{
+    position: absolute;
+    display: flex;
+    top: 0px;
+    left: 790px;
+}
+
+#search{
+    margin-top: 25px;
+    width: 240px;
+    height: 35px;
+    border-radius: 4px;
+    border-width: 0ch;
+    background-color: #3f4448;
+    font-size: 0.9em;
+}
+
+#signword{
+    color:white;
+    font-size: 1em;
+    font-family: Arial;
+    margin: 35px 17px; 
+}
+
+input[type="submit"]{
+    height: 35px;
+    width: 75px;
+    border-radius: 4px;
+    font-size:1em;
+    font-family: Arial;
+    margin-top: 25px;
+    border-width: thin;
+    border-color: white;
+    background-color:  rgb(36,41,46);
+    color: white;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+#left{
+    position: absolute;
+    left: 180px;
+    top:160px;
+}
+
+h1{
+    color: white;
+    font-size: 60px;
+    font-weight: 500;
+    font-family: Arial;
+}
+
+#info{
+    margin-top: -30px;
+    color:lightgray;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+a{
+    color: white;
+    text-decoration-color: lightgray;
+}
+
+#right{
+    position: absolute;
+    left: 700px;
+    top:100px;
+    width: 400px;
+    height: 455px;
+    background-color: #fafbfc;
+    padding-top: 30px;
+    padding-left: 25px;
+    display: block;
+    border-radius: 4px;
+}
+
+.registr{
+    width: 350px;
+    height: 36px;
+    border-radius: 4px;
+    border-width: thin;
+    margin-top: 7px;
+    background-color: #fafbfc;
+    margin-left: 10px;
+}
+
+p{
+    font-size: 0.74em;
+    font-family: Arial;
+    color:black;
+}
+
+#text{
+    margin-left: 10px;
+    line-height: 15px;
+    margin-bottom: 25px;
+}
+
+.blue{
+    text-decoration: none;
+    color: rgb(0, 132, 255);
+}
+
+button{
+    background-color: #2ebc4f;
+    color: white;
+    font-size: 1em;
+    font-weight: 600;
+    width: 380px;
+    height: 65px;
+    border-radius: 5px;
+    border-width: 0;
+}
+
+#sb{
+    width: 355px;
+    margin-left: 10px;
+    height: 60px;
+}
+
+span{
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+#lasttext{
+    margin-top: 25px;
+    margin-left: 10px;
+    line-height: 15px;
+}
